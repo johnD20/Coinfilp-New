@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnd20/apps/coinflip/coinflip.csproj",
+      "projectUniqueName": "/Users/johnd20/apps/new-coinflip/coinflip.csproj",
       "projectName": "coinflip",
-      "projectPath": "/Users/johnd20/apps/coinflip/coinflip.csproj",
+      "projectPath": "/Users/johnd20/apps/new-coinflip/coinflip.csproj",
       "packagesPath": "/Users/johnd20/.nuget/packages/",
-      "outputPath": "/Users/johnd20/apps/coinflip/obj/",
+      "outputPath": "/Users/johnd20/apps/new-coinflip/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
